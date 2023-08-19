@@ -12,8 +12,8 @@ A to-do list application written in Python language, incorporating the use of re
 
 ### Main view (Pending Items List)
 
-[pending view](todolist-python-gui_pending.png "Pending Items View")
+![pending view](todolist-python-gui_pending.png "Pending Items View")
 
 ### Secondary view (Completed Items List)
 
-[completed view](todolist-python-gui_completed.png "Completed Items View")
+![completed view](todolist-python-gui_completed.png "Completed Items View")
