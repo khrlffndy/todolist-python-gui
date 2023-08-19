@@ -166,7 +166,7 @@ def switch_to_completedlist():
     items_pane.pack_forget()
     completed_pane.pack(fill=BOTH, expand=False)
 
-root = ttk.Window()
+root = ttk.Window(title="To-Do List")
 
 # Use PIL library to transform PNG into ICO for Tkinter Window Icon
 ico = Image.open("to-do-list.png")
